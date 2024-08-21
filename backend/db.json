@@ -4,24 +4,28 @@
       "id": 1,
       "conteudo": "Estudos de um Dev",
       "autoria": "Marcelo",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "Treinando",
       "autoria": "Dev",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Continue a codar...",
       "autoria": "Angular",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "as",
       "autoria": "asd",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 4
     }
   ]
